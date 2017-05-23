@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 New
+=======
+hi
+firt
+>>>>>>> add-rashidnitb2017
