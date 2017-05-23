@@ -1,2 +1,6 @@
 ttt
+<<<<<<< HEAD
 
+=======
+uuu
+>>>>>>> add-rashidnitb2017
